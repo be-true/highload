@@ -3,9 +3,9 @@ overload:
   package: yandextank.plugins.DataUploader
   token_file: "token.txt"
 phantom:
-  address: host.docker.internal:3000
+  address: host.docker.internal:8002
   uris:
-    - /
+    - /api/console/content
   load_profile:
     load_type: rps
     schedule: line(1, 1000, 1m)
