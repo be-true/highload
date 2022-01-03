@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+
+  http_simple:
+    build: projects/http_simple
+
+  metarhia_simple:
+    build: projects/metarhia_simple

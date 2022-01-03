@@ -4,3 +4,5 @@ node_modules
 tank/tank_errors.log
 tank/logs
 tank/token.txt
+
+.vscode

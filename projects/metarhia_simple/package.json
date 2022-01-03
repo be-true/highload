@@ -1,5 +1,5 @@
 {
-  "name": "metrhia_simple",
+  "name": "metarhia_simple",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "impress": "^2.6.6",
     "metasql": "^2.0.2"
   }
